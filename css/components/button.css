@@ -1,0 +1,10 @@
+.button{
+    background-color: #046392;
+    padding: 15px 20px;
+    color: white;
+}
+
+.button:hover{
+    background-color: red;
+    color: gold;
+}
